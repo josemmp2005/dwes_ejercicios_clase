@@ -1,0 +1,6 @@
+COMANDA DE PEDIDO
+
+Bacon Crispy Gourmet x1
+Barbacoa Gourmet x1
+
+TOTAL: 2 €
