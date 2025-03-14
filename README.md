@@ -24,8 +24,6 @@ Este repositorio contiene los ejercicios y proyectos realizados durante el curso
 ### Proyectos
 - [calendario](https://github.com/josemmp2005/proyecto_dawes_calendario)
 - [juego_tablas_multiplicar](https://github.com/josemmp2005/proyecto_dwes_juego_tablas_multiplicar)
-<<<<<<< HEAD
 - [portfolios](https://github.com/josemmp2005/proyecto_portfolios)
 - [centros-civicos](https://github.com/josemmp2005/centros_civicos)
-=======
->>>>>>> 50e5de0b625b78580e20f5ca46fec17b06f152ee
+
