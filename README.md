@@ -27,5 +27,5 @@ Este repositorio contiene los ejercicios y proyectos realizados durante el curso
 - [portfolios](https://github.com/josemmp2005/proyecto_portfolios)
 - [centros-civicos](https://github.com/josemmp2005/centros_civicos)
 - [laravel](https://github.com/josemmp2005/laravel-crud-centros-civicos)
-- [symblog]()
+- [symblog](https://github.com/josemmp2005/symblog)
 
